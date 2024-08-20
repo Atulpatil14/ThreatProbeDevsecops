@@ -119,8 +119,8 @@ first thing that all hackers claim.*
 
 ### Prerequisites:
 
-* Java 11
-* Maven > 3.2.1
+* Java 17
+* Maven > 3.8.8
 * Your favorite IDE
 * Git, or Git support in your IDE
 * Jenkins
